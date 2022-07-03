@@ -21,7 +21,6 @@ alias \
 alias \
 	ka="killall" \
 	c="clear" \
- 	h="htop" \
 	r="ranger" \
 	yt="ytfzf" \
 	vim="nvim" \
