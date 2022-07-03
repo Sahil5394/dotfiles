@@ -54,5 +54,3 @@ fm6000 -o Arch_Linux -m 8 -g 8 -l 25 2>/dev/null || ufetch 2>/dev/null || echo "
 
 # Load syntax highlighting and autosuggestions; should be last.
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh 2>/dev/null
-source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh 2>/dev/null
-
