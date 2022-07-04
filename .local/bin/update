@@ -7,7 +7,7 @@ then
   echo "Updating system"
   echo "Updating pacman packages first"
   sudo pacman -Syu &&
-  echo "Updating yay packages now"
+  echo "Updating yay packages now" &&
   yay -Sua
 else
   echo "No need to update"
